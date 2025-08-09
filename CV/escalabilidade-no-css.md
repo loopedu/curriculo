@@ -1,0 +1,4 @@
+Desde o começo do desenvolvimento da web, a forma como pensamos e escrevemos estilos mudou significativamente. De layouts em tabelas ao design responsivo e a atual era dos layouts adaptativos graças aos novos recursos do CSS.
+Gerenciar e organizar o CSS sempre foi um desafio e difícil de achar um consenso. Para compreender a evolução do CSS, é preciso entender os problemas de escalabilidade, as boas práticas adotadas e rejeitadas ao longo do tempo e como as ferramentas atuais tentam resolver esses problemas.
+
+No início a web era apenas HTML e toda estilização era feita dentro das tags utilizando propriedades. Com poucas propriedades de estiliação e duplicação necessário, era claro as limitações da época. Um exemplo de site dessa época é o bom e velho Space Jam. Quando o CSS entrou, tudo mudou. As duplicações desapareceram, os estilos agora eram feitos de modo declarativo
